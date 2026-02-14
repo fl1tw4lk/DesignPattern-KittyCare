@@ -170,5 +170,3 @@ Laporan dan implementasi disusun oleh Kelompok [Nama Kelompok]:
 ## 📄 Lisensi
 
 Proyek ini menggunakan lisensi MIT. Anda bebas menggunakan, memodifikasi, dan mendistribusikan kode untuk tujuan pembelajaran.
-
-
