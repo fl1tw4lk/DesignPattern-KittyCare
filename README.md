@@ -159,7 +159,7 @@ Struktur kode menjadi lebih terorganisir sehingga alur kerja sistem mudah dipaha
 
 ## 👥 Kontributor
 
-Laporan dan implementasi disusun oleh Kelompok [Nama Kelompok]:
+Laporan dan implementasi disusun oleh Kelompok the clean coders:
 
 - [Muhammad Zaki Fawwaz] – 10122159
 - [Natha Widya Putra Nugraha] – 10122187
